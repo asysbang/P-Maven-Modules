@@ -1,3 +1,41 @@
 {
-  "": "目前只用来下载，不做版本管理"
+  "date": "2019-12-31",
+  "modules":[
+    {
+      "name":"media",
+      "version":"12",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/media.zip"
+    },
+    {
+      "name":"ui",
+      "version":"22",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/ui.zip"
+    },
+    {
+      "name":"wifi",
+      "version":"22",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/wifi.zip"
+    },
+    {
+      "name":"tess-two",
+      "version":"1",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/tess-two.zip"
+    },
+    {
+      "name":"grpc",
+      "version":"22",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/grpc.zip"
+    },
+    {
+      "name":"opencv",
+      "version":"22",
+      "api":"28",
+      "url":"https://raw.githubusercontent.com/asysbang/P-Maven-Modules/master/deploy/opencv.zip"
+    }
+  ]
 }
